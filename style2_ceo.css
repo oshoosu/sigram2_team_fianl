@@ -8,7 +8,7 @@
     text-decoration: none;
     list-style: none;
     text-decoration: none;
-    overflow-x:hidden;
+/*    overflow-x:hidden;*/
 }
 
 
@@ -217,7 +217,7 @@ body {
 #headimg {
 
     position: relative;
-    padding-top: 30px;
+    padding-top: 60px;
     padding-bottom: 0px;
     width: 1920px;
     height: 539px;
@@ -377,6 +377,7 @@ body {
     width: 1920px;
     height: 1950px;
     float: left;
+    
 }
 
 #promise b{
